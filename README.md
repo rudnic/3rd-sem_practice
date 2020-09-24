@@ -8,7 +8,7 @@
 
 ### ИСР 1.2
 
-![Задание ИСР 1.2]()
+![Задание ИСР 1.2](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F3rd-sem_practice%2Fblob%2Fmaster%2F%C8%D1%D0%2F1.2.pdf&4&0)
 
 ### ИСР 1.3
 
