@@ -27,7 +27,7 @@
 ![Задание ВСР 2.3](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F3rd-sem_practice%2Fblob%2Fmaster%2F%C2%D1%D0%2F2.3.pdf&4&0)
 
 
-### Отчёет по датам
+### Отчёт по датам
 ![Отчёт по датам](http://qrcoder.ru/code/?https%3A%2F%2Fgit.herzen.spb.ru%2F190575%2F3rd-sem_practice%2Fblob%2Fmaster%2F%CE%F2%F7%B8%F2%FB%2F%C7%E0%E4%E0%ED%E8%FF%2520%EF%EE%2520%EF%F0%E0%EA%F2%E8%EA%E5.pdf&4&0)
 
 ### Отчёт по заданиям
